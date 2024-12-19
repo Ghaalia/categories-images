@@ -1,52 +1,156 @@
 [
+{ 
+name: “Beauty”,
+image:
+"https://media.licdn.com/dms/image/sync/D4E27AQGC3rfvyXpuBg/articleshare-shrink_800/0/1711445218234?e=2147483647&v=beta&t=-oVpwE-EM85rQ3__HZufLX8ebI4000UFtn_irHOUfms”
+}, 
 
-"https://media.licdn.com/dms/image/sync/D4E27AQGC3rfvyXpuBg/articleshare-shrink_800/0/1711445218234?e=2147483647&v=beta&t=-oVpwE-EM85rQ3__HZufLX8ebI4000UFtn_irHOUfms", 
+{ 
+name: “Fragrances”,
+image:
+"https://www.makeup.com/-/media/project/loreal/brand-sites/mdc/americas/us/articles/2020/04_april/28-fragrance-exipre/does-perfume-expire-hero-mudc-042820.jpg”
+},
+
+{ 
+name: “Furniture”,
+image:
+"https://cb.scene7.com/is/image/Crate/cb_mSC_20241101_Furniture_AccentChairs?bfc=on&wid=500&qlt=80&op_sharpen=1"
+},
+
+{ 
+name: “Groceries”,
+image:
+"https://midwestcommunity.org/wp-content/uploads/2018/02/Groceries-ThinkstockPhotos-836782690.jpg"
+},
+
+{ 
+name: “Home Decoration”,
+image:
+"https://i.pinimg.com/736x/e6/03/ca/e603ca0726e13e4bf7f99e79c59dc925.jpg"
+},
+
+{ 
+name: “Kitchen Accessories”,
+image:
+ "https://i.ebayimg.com/images/g/JAMAAOSwDqlgqLgx/s-l1200.jpg"
+},
+
+{ 
+name: “Laptops”,
+image:
+"https://www.stuff.tv/wp-content/uploads/sites/2/2021/04/Stuff-Best-Laptop-Lead.png”
+}, 
+
+{ 
+name: “Men Shirts”,
+image:
+"https://media.centrepointstores.com/i/centrepoint/5010486-POPLIN-HS-AO-SPWIN21160521_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-m-prt-pdp-2x$”
+},
+
+{ 
+name: “Men Shoes”,
+image:
+"https://www.superpstore.com/wp-content/uploads/2023/01/casual-and-formal-wear-footwear-1.jpeg”
+}, 
+
+{ 
+name: “Men Watches”,
+image:
+"https://i0.wp.com/poedagar.store/wp-content/uploads/2023/10/POEDAGAR-Luxury-Man-Wristwatch-Sports-Leather-Men-Quartz-Watch-Waterproof-Luminous-Calendar-Chronograph-Men-s-Watches-5.jpg?fit=1600%2C1600&ssl=1"
+},
+
+{ 
+name: “Mobile Accessories”,
+image:
+"https://static.india.com/wp-content/uploads/2024/11/111-1.jpg?impolicy=Medium_Widthonly&w=400"
+}, 
+
+{ 
+name: “Motorcycle”,
+image:
+"https://vehicle-images.dealerinspire.com/4cb7-210011231/ZDMDAGWW1RB007824/bb0082309ea3907c7b8d8431921d6101.jpg”
+},
 
 
-"https://www.makeup.com/-/media/project/loreal/brand-sites/mdc/americas/us/articles/2020/04_april/28-fragrance-exipre/does-perfume-expire-hero-mudc-042820.jpg",
+{ 
+name: “Skin Care”,
+image:
+"https://www.herbaldynamicsbeauty.com/cdn/shop/articles/daily_guide_to_better_skincare_2000x.jpg?v=1624918418"
+}, 
 
-"https://cb.scene7.com/is/image/Crate/cb_mSC_20241101_Furniture_AccentChairs?bfc=on&wid=500&qlt=80&op_sharpen=1",
+{ 
+name: “Smartphones”,
+image:
+"https://www.androidauthority.com/wp-content/uploads/2024/01/Smartphones-2024-angled.jpg"
+},
 
-"https://midwestcommunity.org/wp-content/uploads/2018/02/Groceries-ThinkstockPhotos-836782690.jpg",
 
-"https://i.pinimg.com/736x/e6/03/ca/e603ca0726e13e4bf7f99e79c59dc925.jpg",
+{ 
+name: “Sports Accessories”,
+image:
+"https://media.istockphoto.com/id/1188462138/photo/variety-of-sport-accessories-on-wooden-surface.jpg?s=612x612&w=0&k=20&c=y2l7DYNkxbVteZy-Kx_adCzm-soTRbiEypje4j8ENe0="
+},
 
- "https://i.ebayimg.com/images/g/JAMAAOSwDqlgqLgx/s-l1200.jpg",
 
-"https://www.stuff.tv/wp-content/uploads/sites/2/2021/04/Stuff-Best-Laptop-Lead.png", 
+{ 
+name: “Sunglasses”,
+image:
+"https://www.arzaan.pk/cdn/shop/products/re2_900x.jpg?v=1684931902"
+},
 
-"https://media.centrepointstores.com/i/centrepoint/5010486-POPLIN-HS-AO-SPWIN21160521_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-m-prt-pdp-2x$",
 
-"https://www.superpstore.com/wp-content/uploads/2023/01/casual-and-formal-wear-footwear-1.jpeg", 
+{ 
+name: “Tablets”,
+image:
+"https://cdn.thewirecutter.com/wp-content/media/2023/11/androidtablets-2048px-05928-3x2-1.jpg?auto=webp&quality=75&crop=3:2&width=1024"
+},
 
-"https://i0.wp.com/poedagar.store/wp-content/uploads/2023/10/POEDAGAR-Luxury-Man-Wristwatch-Sports-Leather-Men-Quartz-Watch-Waterproof-Luminous-Calendar-Chronograph-Men-s-Watches-5.jpg?fit=1600%2C1600&ssl=1",
 
-"https://static.india.com/wp-content/uploads/2024/11/111-1.jpg?impolicy=Medium_Widthonly&w=400", 
+{ 
+name: “Tops”,
+image:
+ "https://images.bestsellerclothing.in/data/vero-moda/25-jan-2024/156949801_g0.jpg?width=397&height=526&mode=fill&fill=blur&format=auto&dpr=1.2"
+},
 
-"https://vehicle-images.dealerinspire.com/4cb7-210011231/ZDMDAGWW1RB007824/bb0082309ea3907c7b8d8431921d6101.jpg",
 
-"https://www.herbaldynamicsbeauty.com/cdn/shop/articles/daily_guide_to_better_skincare_2000x.jpg?v=1624918418", 
+{ 
+name: “Vehicle”,
+image:
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPkGXdLfuQQJ8k0v9OOXnIW1Fd5Atqxn3wXg&s"
+},
 
-"https://www.androidauthority.com/wp-content/uploads/2024/01/Smartphones-2024-angled.jpg",
 
-"https://media.istockphoto.com/id/1188462138/photo/variety-of-sport-accessories-on-wooden-surface.jpg?s=612x612&w=0&k=20&c=y2l7DYNkxbVteZy-Kx_adCzm-soTRbiEypje4j8ENe0=", 
+{ 
+name: “Women Bags”,
+image:
+"https://images.asos-media.com/products/aldo-angelie-top-handle-mini-bag-with-chain-crossbody-strap-in-red-patent/204691769-1-red?$n_640w$&wid=513&fit=constrain"
+},
 
-"https://www.arzaan.pk/cdn/shop/products/re2_900x.jpg?v=1684931902",
 
-"https://cdn.thewirecutter.com/wp-content/media/2023/11/androidtablets-2048px-05928-3x2-1.jpg?auto=webp&quality=75&crop=3:2&width=1024",
+{ 
+name: “Women Dresses”,
+image:
+"https://img.kwcdn.com/product/1d14c6c07fe/74396814-2073-49ad-b016-fe860099060e_1340x1787.jpeg?imageView2/2/w/500/q/60/format/webp"
+},
 
- "https://images.bestsellerclothing.in/data/vero-moda/25-jan-2024/156949801_g0.jpg?width=397&height=526&mode=fill&fill=blur&format=auto&dpr=1.2",
 
-"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPkGXdLfuQQJ8k0v9OOXnIW1Fd5Atqxn3wXg&s", 
-
-"https://images.asos-media.com/products/aldo-angelie-top-handle-mini-bag-with-chain-crossbody-strap-in-red-patent/204691769-1-red?$n_640w$&wid=513&fit=constrain",
-
-"https://img.kwcdn.com/product/1d14c6c07fe/74396814-2073-49ad-b016-fe860099060e_1340x1787.jpeg?imageView2/2/w/500/q/60/format/webp", 
-
+{ 
+name: “Women Jewellery”,
+image:
 "https://t3.ftcdn.net/jpg/09/20/17/90/360_F_920179011_G7CJb7YSYW87bIQdpgGboEfKibRinH95.jpg",
+},
 
-"https://thewilldowntown.com/wp-content/uploads/2024/01/Heel-Or-No-Heels-The-Psychology-Behind-Women-Footwear-Choices.jpg",
 
+{ 
+name: “Women Shoes”,
+image:
+"https://thewilldowntown.com/wp-content/uploads/2024/01/Heel-Or-No-Heels-The-Psychology-Behind-Women-Footwear-Choices.jpg"
+},
+
+
+{ 
+name: “Women Watches”,
+image:
  "https://m.media-amazon.com/images/I/61apa2LelHL._AC_UY350_.jpg" 
 
-]
+}]
